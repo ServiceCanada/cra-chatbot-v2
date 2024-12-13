@@ -1,0 +1,10 @@
+remote_theme: wet-boew/gcweb-jekyll
+title: CRA Chat with Charlie version 2
+
+#
+# Page front matter defaults
+defaults:
+  - scope:
+      path: "" # Ensure it's applied to all pages
+    values:
+      layout: default

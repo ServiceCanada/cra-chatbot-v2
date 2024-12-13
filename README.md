@@ -1,2 +1,2 @@
-# cra-chatbot-v2
-Successor of cra-chatbot
+# cra-chatbot
+AEM implementation of the Chat with Charlie version 2 on CRA pages

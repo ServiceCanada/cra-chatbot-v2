@@ -1,0 +1,31 @@
+{
+	"name": "cra-chatbot-v2",
+	"version": "1.0.0",
+	"description": "Canada.ca Search UI with Headless, version 2",
+	"main": "index.html",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ServiceCanada/cra-chatbot-v2.git"
+	},
+	"keywords": [
+		"Chat",
+		"Chatbot",
+		"CRA",
+		"ARC",
+		"Canada-ca",
+		"v2"
+	],
+	"author": "ServiceCanada",
+	"homepage": "https://servicecanada.github.io/cra-chatbot-v2/",
+	"devDependencies": {
+		"grunt": "^1.0.0",
+		"grunt-banner": "^0.6.0",
+		"grunt-contrib-clean": "^2.0.1",
+		"grunt-contrib-copy": "^1.0.0",
+		"grunt-contrib-cssmin": "^5.0.0",
+		"grunt-contrib-jshint": "^3.2.0",
+		"grunt-contrib-uglify": "^5.2.2",
+		"grunt-eslint": "^24.3.0",
+		"grunt-htmllint": "^0.3.0"
+	}
+}
